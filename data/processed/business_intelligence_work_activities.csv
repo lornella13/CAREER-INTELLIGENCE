@@ -1,0 +1,83 @@
+occupation_code,occupation_title,item_type,item_id,item_name,importance,required_level,hot_technology,in_demand,source
+15-2051.01,Business Intelligence Analysts,work_activity,WA_001,Getting Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_002,Getting Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_003,"Monitoring Processes, Materials, or Surroundings",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_004,"Monitoring Processes, Materials, or Surroundings",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_005,"Identifying Objects, Actions, and Events",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_006,"Identifying Objects, Actions, and Events",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_007,"Inspecting Equipment, Structures, or Materials",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_008,"Inspecting Equipment, Structures, or Materials",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_009,"Estimating the Quantifiable Characteristics of Products, Events, or Information",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_010,"Estimating the Quantifiable Characteristics of Products, Events, or Information",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_011,"Judging the Qualities of Objects, Services, or People",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_012,"Judging the Qualities of Objects, Services, or People",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_013,Processing Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_014,Processing Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_015,Evaluating Information to Determine Compliance with Standards,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_016,Evaluating Information to Determine Compliance with Standards,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_017,Analyzing Data or Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_018,Analyzing Data or Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_019,Making Decisions and Solving Problems,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_020,Making Decisions and Solving Problems,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_021,Thinking Creatively,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_022,Thinking Creatively,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_023,Updating and Using Relevant Knowledge,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_024,Updating and Using Relevant Knowledge,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_025,Developing Objectives and Strategies,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_026,Developing Objectives and Strategies,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_027,Scheduling Work and Activities,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_028,Scheduling Work and Activities,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_029,"Organizing, Planning, and Prioritizing Work",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_030,"Organizing, Planning, and Prioritizing Work",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_031,Performing General Physical Activities,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_032,Performing General Physical Activities,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_033,Handling and Moving Objects,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_034,Handling and Moving Objects,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_035,Controlling Machines and Processes,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_036,Controlling Machines and Processes,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_037,"Operating Vehicles, Mechanized Devices, or Equipment",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_038,"Operating Vehicles, Mechanized Devices, or Equipment",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_039,Working with Computers,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_040,Working with Computers,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_041,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_042,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_043,Repairing and Maintaining Mechanical Equipment,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_044,Repairing and Maintaining Mechanical Equipment,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_045,Repairing and Maintaining Electronic Equipment,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_046,Repairing and Maintaining Electronic Equipment,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_047,Documenting/Recording Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_048,Documenting/Recording Information,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_049,Interpreting the Meaning of Information for Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_050,Interpreting the Meaning of Information for Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_051,"Communicating with Supervisors, Peers, or Subordinates",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_052,"Communicating with Supervisors, Peers, or Subordinates",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_053,Communicating with People Outside the Organization,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_054,Communicating with People Outside the Organization,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_055,Establishing and Maintaining Interpersonal Relationships,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_056,Establishing and Maintaining Interpersonal Relationships,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_057,Assisting and Caring for Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_058,Assisting and Caring for Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_059,Selling or Influencing Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_060,Selling or Influencing Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_061,Resolving Conflicts and Negotiating with Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_062,Resolving Conflicts and Negotiating with Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_063,Performing for or Working Directly with the Public,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_064,Performing for or Working Directly with the Public,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_065,Coordinating the Work and Activities of Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_066,Coordinating the Work and Activities of Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_067,Developing and Building Teams,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_068,Developing and Building Teams,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_069,Training and Teaching Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_070,Training and Teaching Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_071,"Guiding, Directing, and Motivating Subordinates",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_072,"Guiding, Directing, and Motivating Subordinates",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_073,Coaching and Developing Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_074,Coaching and Developing Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_075,Providing Consultation and Advice to Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_076,Providing Consultation and Advice to Others,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_077,Performing Administrative Activities,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_078,Performing Administrative Activities,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_079,Staffing Organizational Units,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_080,Staffing Organizational Units,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_081,Monitoring and Controlling Resources,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,work_activity,WA_082,Monitoring and Controlling Resources,,,,,O*NET

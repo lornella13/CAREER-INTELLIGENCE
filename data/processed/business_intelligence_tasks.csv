@@ -1,0 +1,18 @@
+occupation_code,occupation_title,item_type,item_id,item_name,importance,required_level,hot_technology,in_demand,source
+15-2051.01,Business Intelligence Analysts,task,1,"Generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,2,"Maintain or update business intelligence tools, databases, dashboards, systems, or methods.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,3,Manage timely flow of business intelligence information to users.,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,4,"Provide technical support for existing reports, dashboards, or other tools.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,5,Identify and analyze industry or geographic trends with business strategy implications.,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,6,"Document specifications for business intelligence or information technology reports, dashboards, or other outputs.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,7,"Create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,8,"Collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,9,"Disseminate information regarding tools, reports, or metadata enhancements.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,10,Conduct or coordinate tests to ensure that intelligence is consistent with defined needs.,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,11,Synthesize current business intelligence or trend data to support recommendations for action.,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,12,"Analyze competitive market strategies through analysis of related product, market, or share trends.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,13,"Identify or monitor current and potential customers, using business intelligence tools.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,14,"Communicate with customers, competitors, suppliers, professional organizations, or others to stay abreast of industry or business trends.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,15,"Maintain library of model documents, templates, or other reusable knowledge assets.",,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,16,Create or review technical design documentation to ensure the accurate development of reporting solutions.,,,,,O*NET
+15-2051.01,Business Intelligence Analysts,task,17,Analyze technology trends to identify markets for future product development or to improve sales of existing products.,,,,,O*NET

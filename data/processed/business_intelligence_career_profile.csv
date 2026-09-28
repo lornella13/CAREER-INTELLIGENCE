@@ -1,0 +1,120 @@
+occupation_code,occupation_title,item_type,item_id,item_name,importance,required_level,hot_technology,in_demand,source
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.a,Reading Comprehension,4.0,4.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.b,Active Listening,3.88,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.c,Writing,3.75,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.d,Speaking,3.88,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.e,Mathematics,3.5,3.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.f,Science,1.62,0.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.a,Critical Thinking,3.88,4.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.b,Active Learning,3.88,4.12,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.c,Learning Strategies,3.0,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.d,Monitoring,3.12,3.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.a,Social Perceptiveness,2.88,2.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.b,Coordination,3.0,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.c,Persuasion,2.88,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.d,Negotiation,2.5,2.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.e,Instructing,3.0,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.f,Service Orientation,2.88,2.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.2.i,Complex Problem Solving,3.38,3.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.a,Operations Analysis,1.88,1.62,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.b,Technology Design,1.62,0.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.c,Equipment Selection,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.d,Installation,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.e,Programming,2.5,2.5,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.g,Operations Monitoring,1.75,1.12,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.h,Operation and Control,1.38,0.38,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.j,Equipment Maintenance,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.k,Troubleshooting,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.l,Repairing,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.m,Quality Control Analysis,2.0,1.5,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.4.e,Judgment and Decision Making,3.62,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.4.g,Systems Analysis,3.12,3.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.4.h,Systems Evaluation,3.12,3.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.a,Time Management,3.12,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.b,Management of Financial Resources,1.88,1.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.c,Management of Material Resources,1.75,1.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.d,Management of Personnel Resources,2.12,2.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.3.a,Computers and Electronics,4.29,5.41,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.4.a,Mathematics,3.82,4.67,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.7.a,English Language,3.77,4.41,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.1.a,Administration and Management,3.14,4.14,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.1.e,Customer and Personal Service,3.1,3.76,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.1.c,Economics and Accounting,3.0,3.59,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.9.b,Communications and Media,2.59,2.95,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.6,Education and Training,2.5,3.32,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.1.d,Sales and Marketing,2.45,3.14,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.3.c,Design,2.43,2.5,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.1.b,Administrative,2.43,3.64,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.3.b,Engineering and Technology,2.36,2.77,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.4.f,Sociology and Anthropology,2.23,2.59,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.4.g,Geography,2.23,3.45,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.4.e,Psychology,2.18,2.41,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.8.b,Law and Government,2.14,2.36,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.1.f,Personnel and Human Resources,1.91,2.23,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.2.a,Production and Processing,1.75,1.57,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.7.d,History and Archeology,1.73,1.77,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.9.a,Telecommunications,1.55,1.14,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.8.a,Public Safety and Security,1.55,1.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.7.c,Fine Arts,1.5,1.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.7.e,Philosophy and Theology,1.45,1.23,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.7.b,Foreign Language,1.36,0.77,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.5.a,Medicine and Dentistry,1.18,0.45,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.5.b,Therapy and Counseling,1.18,0.32,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.10,Transportation,1.18,0.55,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.3.d,Building and Construction,1.14,0.45,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.2.b,Food Production,1.14,0.55,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.3.e,Mechanical,1.14,0.32,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.4.d,Biology,1.09,0.36,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.4.b,Physics,1.09,0.27,,,O*NET
+15-2051.01,Business Intelligence Analysts,knowledge,2.C.4.c,Chemistry,1.09,0.27,,,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.e,Data base reporting software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.5.b,Document management software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.7.b,Development environment software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.4.g,Web page creation and editing software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.7.e,Object or component oriented development software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.f,Data base user interface and query software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.7.h,Web platform development software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.m,Business intelligence and data analysis software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.d,Data base management system software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.k,Portal server software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.1.e,Project management software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.5.a,Content workflow software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.13.c,Operating system software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.c,Customer relationship management CRM software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.12.a,Access software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.l,Transaction server software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.i,Metadata management software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.g,Data mining software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.2.d,Financial analysis software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.10.b,Desktop communications software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.9.i,Medical software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.8.h,Geographic information system,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.7.c,Enterprise application integration software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.2.a,Accounting software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.5.c,File versioning software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.10.a,Application server software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.1.l,Sales and marketing software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.4.d,Word processing software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.4.f,Presentation software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.7.f,Program testing software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.j,Object oriented data base management software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.1.c,Human resources software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.12.b,Communications server software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.16.a,Electronic mail software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.17.a,Enterprise system management software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.9.d,Analytical or scientific software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.11.e,Cloud-based management software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.6.h,Information retrieval or search software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.14.d,Transaction security and virus protection software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.2.b,Enterprise resource planning ERP software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.4.i,Spreadsheet software,,,Y,Y,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.1.k,Office suite software,,,Y,Y,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.4.k,Desktop publishing software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.1.p,Process mapping and design software,,,Y,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.11.a,Network monitoring software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.9.c,Computer aided design CAD software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.7.d,Graphical user interface development software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.7.g,Requirements analysis and system architecture software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.15.f,Backup or archival software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.14.c,Network security and virtual private network VPN equipment software,,,N,N,O*NET
+15-2051.01,Business Intelligence Analysts,software,2.E.4.c,Video creation and editing software,,,N,N,O*NET

@@ -1,0 +1,36 @@
+occupation_code,occupation_title,item_type,item_id,item_name,importance,required_level,hot_technology,in_demand,source
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.a,Reading Comprehension,4.0,4.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.b,Active Listening,3.88,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.c,Writing,3.75,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.d,Speaking,3.88,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.e,Mathematics,3.5,3.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.1.f,Science,1.62,0.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.a,Critical Thinking,3.88,4.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.b,Active Learning,3.88,4.12,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.c,Learning Strategies,3.0,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,essential_skill,2.A.2.d,Monitoring,3.12,3.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.a,Social Perceptiveness,2.88,2.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.b,Coordination,3.0,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.c,Persuasion,2.88,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.d,Negotiation,2.5,2.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.e,Instructing,3.0,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.1.f,Service Orientation,2.88,2.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.2.i,Complex Problem Solving,3.38,3.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.a,Operations Analysis,1.88,1.62,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.b,Technology Design,1.62,0.88,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.c,Equipment Selection,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.d,Installation,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.e,Programming,2.5,2.5,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.g,Operations Monitoring,1.75,1.12,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.h,Operation and Control,1.38,0.38,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.j,Equipment Maintenance,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.k,Troubleshooting,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.l,Repairing,1.0,0.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.3.m,Quality Control Analysis,2.0,1.5,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.4.e,Judgment and Decision Making,3.62,4.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.4.g,Systems Analysis,3.12,3.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.4.h,Systems Evaluation,3.12,3.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.a,Time Management,3.12,3.0,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.b,Management of Financial Resources,1.88,1.75,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.c,Management of Material Resources,1.75,1.25,,,O*NET
+15-2051.01,Business Intelligence Analysts,transferable_skill,2.B.5.d,Management of Personnel Resources,2.12,2.0,,,O*NET
